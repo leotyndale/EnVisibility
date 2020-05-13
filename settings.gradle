@@ -1,0 +1,3 @@
+rootProject.name='EnVisibility'
+include ':app'
+include ':envisibility'
